@@ -1,0 +1,16 @@
+{
+    "name": "noop/flushlogbundle",
+    "autoload": {
+        "psr-4": {
+            "Noop\\FlushLog\\": "lib/"
+        }
+    },
+    "require": {
+        "noop/flushlog": "dev-master"
+    },
+    "require-dev": {
+        "symfony/security": "^4.3",
+        "symfony/dependency-injection": "^4.3",
+        "symfony/config": "^4.3"
+    }
+}
