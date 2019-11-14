@@ -2,7 +2,7 @@
     "name": "noop/flushlogbundle",
     "autoload": {
         "psr-4": {
-            "Noop\\FlushLog\\": "lib/"
+            "Noop\\FlushLogBundle\\": "lib/"
         }
     },
     "require": {
